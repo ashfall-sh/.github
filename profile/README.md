@@ -5,7 +5,7 @@ ashfall builds software for the platforms we spend our time on: discord, roblox,
 #### what we develop
 
 - **apps**: [fray](https://fray.lol), a free community app for discord with a web dashboard and docs in 15 languages, and [pout](https://pout.lol), avatar tools for discord.
-- **developer tools**: [unripe](https://github.com/glumly/unripe), a ci check that fails the build when a locked dependency is newer than you trust, across nine package ecosystems.
+- **developer tools**: [unripe](https://github.com/glumly/unripe), a ci check that fails the build when a locked dependency is newer than you trust, across nine package ecosystems, and [mintsearch](https://github.com/ashfall-sh/mintsearch), search, a sitemap and llms.txt for self-hosted Mintlify docs.
 - **web**: the sites, dashboards and docs behind everything above.
 - **infrastructure**: our own servers, with our own mail, uptime checks, analytics and error tracking, all self-hosted.
 
