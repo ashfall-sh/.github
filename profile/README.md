@@ -1,4 +1,4 @@
-<img src="ashfall.svg" width="100%" alt="ashfall, building for the platforms we use">
+<img src="banner.svg" width="100%" alt="ashfall, building for the platforms we use">
 
 ashfall builds software for the platforms we spend our time on: discord, roblox, github and the web. backends, web apps, developer tools and the infrastructure under them, built and shipped by us from the first commit to the server it runs on.
 
