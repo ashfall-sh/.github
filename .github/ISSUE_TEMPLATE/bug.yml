@@ -1,0 +1,23 @@
+name: bug
+description: something does not work the way it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: what happened
+      description: what you did, what you expected, and what happened instead
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: how to make it happen again
+      placeholder: |
+        1. run `,command`
+        2. ...
+  - type: input
+    id: where
+    attributes:
+      label: where
+      description: the command, page or file, and roughly when

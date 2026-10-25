@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: support server
+    url: https://discord.gg/RztGdZYQt2
+    about: questions and help setting things up
+  - name: docs
+    url: https://docs.fray.lol
+    about: how every command works

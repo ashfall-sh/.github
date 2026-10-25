@@ -1,0 +1,16 @@
+name: idea
+description: something that would make it better
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: the idea
+      description: what it should do, and who it helps
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: why
+      description: what you do today without it
