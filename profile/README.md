@@ -1,11 +1,27 @@
-<img src="ashfall.svg" width="100%" alt="ashfall">
+<img src="ashfall.svg" width="100%" alt="ashfall, building for the platforms we use">
 
-a small studio building discord bots, web apps and the servers they run on. we build in the open where we can and ship everything ourselves, from the first commit to the box it runs on.
+ashfall builds software for the platforms we spend our time on: discord, roblox, github and the web. backends, web apps, developer tools and the infrastructure under them, built and shipped by us from the first commit to the server it runs on.
 
-#### what we make
+#### what we develop
 
-- **[fray](https://fray.lol)**: a free discord bot and user app with social reposts, roblox and game lookups, moderation, tickets, leveling, ai, 15 languages and a web dashboard. [docs](https://docs.fray.lol)
-- **[unripe](https://github.com/glumly/unripe)**: fails the build when a locked dependency is newer than you trust. one check for npm, pnpm, yarn, bun, pypi, cargo, go, composer and rubygems.
+- **apps**: [fray](https://fray.lol), a free community app for discord with a web dashboard and docs in 15 languages, and [pout](https://pout.lol), avatar tools for discord.
+- **developer tools**: [unripe](https://github.com/glumly/unripe), a ci check that fails the build when a locked dependency is newer than you trust, across nine package ecosystems.
+- **web**: the sites, dashboards and docs behind everything above.
+- **infrastructure**: our own servers, with our own mail, uptime checks, analytics and error tracking, all self-hosted.
+
+#### languages and tools
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="strip-dark.svg">
+  <img src="strip-light.svg" width="672" alt="python, typescript, javascript, go, luau, lua, react, next.js, discord.py, fastapi, node.js, pydantic, postgresql, redis, docker, nginx, ubuntu, cloudflare, github actions, git, bash, html, css, aiohttp">
+</picture>
+
+#### what we're aiming for
+
+- **free to use**: the things people rely on aren't locked behind a paywall.
+- **respectful by default**: no tracking that follows people around, nothing sold, data kept only as long as it's needed.
+- **open where it helps**: smaller tools and libraries go public so others can use them.
+- **built to last**: we run what we ship, watch it, and fix it when a platform changes underneath it.
 
 #### people
 
